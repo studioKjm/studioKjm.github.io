@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Kimjimin"
+  avatar           : ![Stage1](https://user-images.githubusercontent.com/117446950/205479960-c114fd83-01d4-45e3-bef7-62c7f5bcd976.PNG)
+  bio              : "김지민의 블로그"
+  location         : "South Korea"
+  email            : "2763godjo@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
